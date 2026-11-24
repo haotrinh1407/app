@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FarmCare</string>
+    <string name="app_tagline">Quản lý đơn giản – Tra cứu nhanh – Chăm sóc hiệu quả</string>
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_manage">Quản lý</string>
+    <string name="nav_knowledge">Tra cứu</string>
+    <string name="nav_assistant">Trợ lý</string>
+    <string name="nav_account">Tài khoản</string>
+    <string name="ai_firebase_notice">Chế độ AI mẫu nội bộ: Tính năng Trợ lý AI đầy đủ cần bật Firebase (Firebase AI Logic). Hiện đang dùng câu trả lời mẫu dựa trên thư viện kiến thức.</string>
+    <string name="vet_disclaimer">Lưu ý: Thông tin chỉ mang tính tham khảo, không tự kê liều thuốc và không thay thế bác sĩ thú y.</string>
+    <string name="action_save">Lưu</string>
+    <string name="action_cancel">Hủy</string>
+    <string name="action_delete">Xóa</string>
+    <string name="action_confirm">Xác nhận</string>
+    <string name="cd_hero_banner">Ảnh minh họa trang trại xanh FarmCare</string>
+    <string name="cd_knowledge_cover">Ảnh minh họa thư viện kiến thức chăn nuôi</string>
+    <string name="cd_empty_herd">Hình minh họa đàn vật nuôi</string>
+    <string name="cd_notifications">Thông báo</string>
+    <string name="cd_back">Quay lại</string>
+</resources>

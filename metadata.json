@@ -1,0 +1,8 @@
+{
+  "name": "Remix FarmCare",
+  "description": "Trợ lý chăn nuôi giúp quản lý đàn vật nuôi, chuồng trại, sinh sản, sức khỏe, thức ăn, lịch chăm sóc, tài chính, tin tức và hỏi đáp kiến thức cùng AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
